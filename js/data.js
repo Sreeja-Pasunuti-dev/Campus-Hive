@@ -200,7 +200,7 @@ const clubsData = [
             },
             {
                 id: 3,
-                title: "PUSLE",
+                title: "PLUSE",
                 date: "2025-04-26",
                 time: "19:00",
                 location: "College Grounds",
@@ -251,7 +251,7 @@ const clubsData = [
             },,
             {
                 id: 11,
-                title: "ANUAL DAY",
+                title: "ANNUAL DAY",
                 date: "2024-08-30",
                 time: "10:00",
                 location: "GRIET Grounds",
