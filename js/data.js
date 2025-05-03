@@ -15,7 +15,7 @@ const clubsData = [
                 description: "A thrilling 24-hour hackathon where creativity meets purpose — solve real-world problems and shape a brighter future!",
                 image: "images/sdc1.jpg",
                 registrationLink: "https://epitome25.grietsdc.in/index.html",
-                status: "Registrations open",
+                status: "Registrations Open",
                 highlights: [
                     "24-hour non-stop hackathon",
                     "Problem-solving across Smart EdTech, Healthcare, Agrotech, and more",
@@ -41,7 +41,7 @@ const clubsData = [
                 description: "A hands-on cloud computing workshop designed to introduce students to the world of Microsoft Azure, its services, and real-time deployment capabilities.",
                 image: "images/sdc2.jpg",
                 registrationLink: "https://www.grietsdc.in/index.html",
-                status: "Registration Closed",
+                status: "Registrations Closed",
                 highlights: [
                     "Introduction to Microsoft Azure and Cloud Fundamentals",
                     "Live deployment of web apps on Azure",
