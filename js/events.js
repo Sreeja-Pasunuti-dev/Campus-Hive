@@ -141,7 +141,7 @@ function loadClubEvents() {
                     
                     <div class="event-actions">
                         <a href="${event.registrationLink}" target="_blank" class="btn btn-primary">
-                            ${event.status === 'Registration Open' ? 'Register Now' :  'Registration Closed' }
+                            ${event.status === 'Registrations Open' ? 'Register Now' :  'Registration Closed' }
                         </a>
                     </div>
                 </div>
